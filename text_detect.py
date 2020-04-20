@@ -57,4 +57,4 @@ def check(image):
     return "yes"
 
 def main(image):
-     print(check(image))
+     print(check(modify(image)))
